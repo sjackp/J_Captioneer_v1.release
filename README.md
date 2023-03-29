@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://tinypic.host/images/2023/03/29/jc1.jpg" width="250"/>
   <img src="https://tinypic.host/images/2023/03/29/jc2.jpg" width="250"/> 
-  <img src="https://tinypic.host/images/2023/03/29/jc3.jpg" width="250"/>
+  <img src="https://tinypic.host/images/2023/03/29/jc3.jpg" width="200"/>
 </div>
 
 # J_Captioneer
