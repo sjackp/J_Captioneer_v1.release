@@ -30,7 +30,7 @@ J_Captioneer is a PyQt5-based image browser and caption editor that allows users
 Download the standalone executable (`J_Captioneer.exe`) from the [releases](https://github.com/sjackp/J_Captioneer_v1.release/releases) page.
 
 ### Installer
-Download the installer (`J_Captioneer_Setup.exe`) from the [releases](https://github.com/sjackp/J_Captioneer_v1.release/releases) page and follow the installation steps.
+Download the installer (`J_Captioneer_v1_installer.exe`) from the [releases](https://github.com/sjackp/J_Captioneer_v1.release/releases) page and follow the installation steps.
 
 ### From Source
 Clone the repository and set up the development environment using `requirements.txt`:
