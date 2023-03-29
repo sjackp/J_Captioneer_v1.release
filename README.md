@@ -1,8 +1,10 @@
 # J_Captioneer_v1.release
 
-![Screenshot 1](https://tinypic.host/images/2023/03/29/jc1.jpg)
-![Screenshot 2](https://tinypic.host/images/2023/03/29/jc2.jpg)
-![Screenshot 3](https://tinypic.host/images/2023/03/29/jc3.jpg)
+<div align="center">
+  <img src="https://tinypic.host/images/2023/03/29/jc1.jpg" width="250"/>
+  <img src="https://tinypic.host/images/2023/03/29/jc2.jpg" width="250"/> 
+  <img src="https://tinypic.host/images/2023/03/29/jc3.jpg" width="250"/>
+</div>
 
 # J_Captioneer
 
