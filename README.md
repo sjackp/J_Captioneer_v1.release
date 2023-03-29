@@ -1,4 +1,11 @@
 # J_Captioneer_v1.release
+
+<div align="center">
+  <img src="https://tinypic.host/images/2023/03/29/jc1.jpg" width="250"/>
+  <img src="https://tinypic.host/images/2023/03/29/jc2.jpg" width="250"/> 
+  <img src="https://tinypic.host/images/2023/03/29/jc3.jpg" width="200"/>
+</div>
+
 # J_Captioneer
 
 J_Captioneer_v1 is a PyQt5-based image browser and caption editor that allows users to view, navigate, and manage images and captions with ease. This streamlines your workflow and makes it easy to edit the captions to your training images. With J_Captioneer_v1, you can quickly and efficiently browse through a directory of images and edit the captions to each one. The app automatically loads all the images and their corresponding text files, and provides a simple and intuitive layout for editing captions. The app also has two find/replace functions as well as a prefix/suffix function.
